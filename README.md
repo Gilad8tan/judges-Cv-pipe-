@@ -5,3 +5,4 @@ unedited notebooks created while working on task.
 judgeCvScraper.ipynb uses Selenium for scraping gov site.
 cvToCSV.ipynb uses sets of words (places , jobs ..) and simple on the go methods to segment and compare scraped data. 
 currPeek and dimosPeek are examples of one type of output.
+
