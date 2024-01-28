@@ -1,3 +1,3 @@
-# python-scraping-and-EDA
+# judges CV pipeline for dataset creation
 examples of codes and results. 
-mostly unedited notebooks created while working on tasks.
+unedited notebooks created while working on task.
